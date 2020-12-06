@@ -1,2 +1,2 @@
-# awesome-lab
-Awesom tools for lab scientists and research.
+# Awesome Lab
+👩‍🔬 Awesome tools for lab scientists and research.
