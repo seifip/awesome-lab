@@ -24,3 +24,6 @@ Tools and resources for wet lab scientists and research.
 * [RSpace](https://www.researchspace.com/)
 * [eLabFTW](https://www.elabftw.net/)
 * [Genemod](https://genemod.net/)
+
+## Voice assisstants
+* [LabTwin](https://www.labtwin.com/)
