@@ -27,3 +27,18 @@ Tools and resources for wet lab scientists and research.
 
 ## Voice assisstants
 * [LabTwin](https://www.labtwin.com/)
+* [HelixAI](http://www.askhelix.io/)
+
+## Lab automation
+* [Cytera](https://cytera.bio/)
+* [Opentrons](https://opentrons.com/)
+* [Emerald Cloud Lab](https://www.emeraldcloudlab.com/)
+* [Transcriptic](https://www.transcriptic.com/)
+* [Laboperator](https://www.laboperator.com/)
+* [Andrew Alliance](https://www.andrewalliance.com/)
+* [Pegasus](https://pegasus.isi.edu/)
+* [TetraScience](https://www.tetrascience.com/)
+
+## Visualization
+* [Mind the Graph](https://mindthegraph.com/)
+* [BioRender](https://biorender.com/)
