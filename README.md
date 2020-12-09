@@ -5,7 +5,8 @@ Tools and resources for wet lab scientists and research.
 
 ## Contents
 * [Electronic Lab Notebooks (ELNs)](#electronic-lab-notebooks--elns-)
-* [Voice assisstants](#voice-assisstants)
+* [Voice assisstants](#voice-assistants)
+* [Lab management](#lab-management)
 * [Lab automation](#lab-automation)
 * [Visualization](#visualization)
 * [Outsourcing](#outsourcing)
@@ -31,7 +32,7 @@ Tools and resources for wet lab scientists and research.
 * [eLabFTW](https://www.elabftw.net/)
 * [Genemod](https://genemod.net/)
 
-## Voice assisstants
+## Voice assistants
 * [LabTwin](https://www.labtwin.com/)
 * [HelixAI](http://www.askhelix.io/)
 
