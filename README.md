@@ -38,13 +38,20 @@ Tools and resources for wet lab scientists and research.
 * [Andrew Alliance](https://www.andrewalliance.com/)
 * [Pegasus](https://pegasus.isi.edu/)
 * [TetraScience](https://www.tetrascience.com/)
+* [Stencila](https://stenci.la/)
 
 ## Visualization
 * [Mind the Graph](https://mindthegraph.com/)
 * [BioRender](https://biorender.com/)
+* [Circos](http://mycircos.iric.ca/)
+* [Quadrigram](https://www.quadrigram.com/)
+* [Image.sc](https://forum.image.sc/)
 
 ## Outsourcing
 * [Labtoo](https://www.labtoo.com/)
+
+## Education and training
+* [Labster](https://www.labster.com/)
 
 ## Funding
 * [Instrumentl](https://www.instrumentl.com/)
