@@ -44,7 +44,7 @@ Tools and resources for wet lab scientists and research.
 * [BioRender](https://biorender.com/)
 
 ## Outsourcing
-* [https://www.labtoo.com/](https://www.labtoo.com/)
+* [Labtoo](https://www.labtoo.com/)
 
 ## Funding
 * [Instrumentl](https://www.instrumentl.com/)
