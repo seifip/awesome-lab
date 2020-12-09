@@ -35,6 +35,9 @@ Tools and resources for wet lab scientists and research.
 * [LabTwin](https://www.labtwin.com/)
 * [HelixAI](http://www.askhelix.io/)
 
+## Lab management
+* [Quartzy](https://www.quartzy.com/)
+
 ## Lab automation
 * [Cytera](https://cytera.bio/)
 * [Opentrons](https://opentrons.com/)
