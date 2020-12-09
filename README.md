@@ -42,3 +42,14 @@ Tools and resources for wet lab scientists and research.
 ## Visualization
 * [Mind the Graph](https://mindthegraph.com/)
 * [BioRender](https://biorender.com/)
+
+## Outsourcing
+* [https://www.labtoo.com/](https://www.labtoo.com/)
+
+## Funding
+* [Instrumentl](https://www.instrumentl.com/)
+* [IndieBio](https://indiebio.co/)
+* [BioCity](https://biocity.co.uk/)
+* [The Longevity Fund](https://www.longevity.vc/)
+* [ScienceVest](https://www.sciencevest.com/)
+* [Venture Development Center](https://www.umb.edu/vdc)
