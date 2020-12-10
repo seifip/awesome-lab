@@ -61,6 +61,7 @@ Tools and resources for wet lab scientists and research.
 
 ## Outsourcing
 * [Labtoo](https://www.labtoo.com/)
+* [Science Exchange](https://www.scienceexchange.com/)
 
 ## Education and training
 * [Labster](https://www.labster.com/)
