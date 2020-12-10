@@ -4,9 +4,9 @@
 Tools and resources for wet lab scientists and research.
 
 ## Contents
-* [Electronic Lab Notebooks (ELNs)](#electronic-lab-notebooks--elns-)
+* [Electronic Lab Notebooks (ELNs)](#electronic-lab-notebooks-elns)
 * [Voice assisstants](#voice-assistants)
-* [Lab management](#lab-management--lims-)
+* [Lab management (LIMS)](#lab-management-lims)
 * [Lab automation](#lab-automation)
 * [Visualization](#visualization)
 * [Outsourcing](#outsourcing)
