@@ -53,6 +53,7 @@ Tools and resources for wet lab scientists and research.
 * [Stencila](https://stenci.la/)
 
 ## 🌸 Visualization
+* [Chemix](https://chemix.org/)
 * [Mind the Graph](https://mindthegraph.com/)
 * [BioRender](https://biorender.com/)
 * [Circos](http://mycircos.iric.ca/)
