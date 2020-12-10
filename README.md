@@ -36,7 +36,7 @@ Tools and resources for wet lab scientists and research.
 * [LabTwin](https://www.labtwin.com/)
 * [HelixAI](http://www.askhelix.io/)
 
-## Lab management
+## Lab management (LIMS)
 * [Quartzy](https://www.quartzy.com/)
 * [Ovation](https://www.ovation.io/)
 
