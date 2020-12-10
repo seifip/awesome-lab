@@ -4,16 +4,16 @@
 Tools and resources for wet lab scientists and research.
 
 ## Contents
-* [Electronic Lab Notebooks (ELNs)](#electronic-lab-notebooks-elns)
-* [Voice assisstants](#voice-assistants)
-* [Lab management (LIMS)](#lab-management-lims)
-* [Lab automation](#lab-automation)
-* [Visualization](#visualization)
-* [Outsourcing](#outsourcing)
-* [Education and training](#education-and-training)
-* [Funding](#funding)
+1. [Electronic Lab Notebooks (ELNs)](#electronic-lab-notebooks-elns)
+2. [Voice assisstants](#voice-assistants)
+3. [Lab management (LIMS)](#lab-management-lims)
+4. [Lab automation](#lab-automation)
+5. [Visualization](#visualization)
+6. [Outsourcing](#outsourcing)
+7. [Education and training](#education-and-training)
+8. [Funding](#funding)
 
-## Electronic Lab Notebooks (ELNs)
+## 📒 Electronic Lab Notebooks (ELNs)
 * [Presearch](https://www.presearch.co/)
 * [Benchling](https://www.benchling.com/)
 * [LabLog](https://labnotebook.app/)
@@ -32,15 +32,15 @@ Tools and resources for wet lab scientists and research.
 * [eLabFTW](https://www.elabftw.net/)
 * [Genemod](https://genemod.net/)
 
-## Voice assistants
+## 💬 Voice assistants
 * [LabTwin](https://www.labtwin.com/)
 * [HelixAI](http://www.askhelix.io/)
 
-## Lab management (LIMS)
+## 🍱 Lab management (LIMS)
 * [Quartzy](https://www.quartzy.com/)
 * [Ovation](https://www.ovation.io/)
 
-## Lab automation
+## 🤖 Lab automation
 * [Cytera](https://cytera.bio/)
 * [Opentrons](https://opentrons.com/)
 * [Emerald Cloud Lab](https://www.emeraldcloudlab.com/)
@@ -52,21 +52,21 @@ Tools and resources for wet lab scientists and research.
 * [TetraScience](https://www.tetrascience.com/)
 * [Stencila](https://stenci.la/)
 
-## Visualization
+## 🌸 Visualization
 * [Mind the Graph](https://mindthegraph.com/)
 * [BioRender](https://biorender.com/)
 * [Circos](http://mycircos.iric.ca/)
 * [Quadrigram](https://www.quadrigram.com/)
 * [Image.sc](https://forum.image.sc/)
 
-## Outsourcing
+## 🔗 Outsourcing
 * [Labtoo](https://www.labtoo.com/)
 * [Science Exchange](https://www.scienceexchange.com/)
 
-## Education and training
+## 🎓 Education and training
 * [Labster](https://www.labster.com/)
 
-## Funding
+## 🤑 Funding
 * [Instrumentl](https://www.instrumentl.com/)
 * [IndieBio](https://indiebio.co/)
 * [BioCity](https://biocity.co.uk/)
