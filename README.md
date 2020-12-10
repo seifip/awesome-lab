@@ -38,6 +38,7 @@ Tools and resources for wet lab scientists and research.
 
 ## Lab management
 * [Quartzy](https://www.quartzy.com/)
+* [Ovation](https://www.ovation.io/)
 
 ## Lab automation
 * [Cytera](https://cytera.bio/)
