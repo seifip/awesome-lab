@@ -46,6 +46,7 @@ Tools and resources for wet lab scientists and research.
 * [Transcriptic](https://www.transcriptic.com/)
 * [Laboperator](https://www.laboperator.com/)
 * [Andrew Alliance](https://www.andrewalliance.com/)
+* [Synthace](https://www.synthace.com/)
 * [Pegasus](https://pegasus.isi.edu/)
 * [TetraScience](https://www.tetrascience.com/)
 * [Stencila](https://stenci.la/)
