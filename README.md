@@ -4,14 +4,14 @@
 Tools and resources for wet lab scientists and research.
 
 ## Contents
-1. [Electronic Lab Notebooks (ELNs)](#electronic-lab-notebooks-elns)
-2. [Voice assisstants](#voice-assistants)
-3. [Lab management (LIMS)](#lab-management-lims)
-4. [Lab automation](#lab-automation)
-5. [Visualization](#visualization)
-6. [Outsourcing](#outsourcing)
-7. [Education and training](#education-and-training)
-8. [Funding](#funding)
+1. [Electronic Lab Notebooks (ELNs)](#-electronic-lab-notebooks-elns)
+2. [Voice assisstants](#-voice-assistants)
+3. [Lab management (LIMS)](#-lab-management-lims)
+4. [Lab automation](#-lab-automation)
+5. [Visualization](#-visualization)
+6. [Outsourcing](#-outsourcing)
+7. [Education and training](#-education-and-training)
+8. [Funding](#-funding)
 
 ## 📒 Electronic Lab Notebooks (ELNs)
 * [Presearch](https://www.presearch.co/)
