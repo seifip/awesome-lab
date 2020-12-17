@@ -36,6 +36,7 @@ Tools and resources for wet lab scientists and research.
 ## 💬 Voice assistants
 * [LabTwin](https://www.labtwin.com/)
 * [HelixAI](http://www.askhelix.io/)
+* [LabVoice](https://www.labvoice.ai/)
 
 ## 🍱 Lab management (LIMS)
 * [Quartzy](https://www.quartzy.com/)
