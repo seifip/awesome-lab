@@ -68,6 +68,7 @@ Tools and resources for wet lab scientists and research.
 
 ## 🎓 Education and training
 * [Labster](https://www.labster.com/)
+* [Foldscope](https://www.foldscope.com/)
 
 ## 🤑 Funding
 * [Instrumentl](https://www.instrumentl.com/)
