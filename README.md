@@ -70,10 +70,13 @@ Tools and resources for wet lab scientists and research.
 * [Labster](https://www.labster.com/)
 * [Foldscope](https://www.foldscope.com/)
 
+## 🏢 Lab spaces
+* [Open Cell](https://www.opencell.bio/)
+* [BioCity](https://biocity.co.uk/)
+
 ## 🤑 Funding
 * [Instrumentl](https://www.instrumentl.com/)
 * [IndieBio](https://indiebio.co/)
-* [BioCity](https://biocity.co.uk/)
 * [The Longevity Fund](https://www.longevity.vc/)
 * [ScienceVest](https://www.sciencevest.com/)
 * [Venture Development Center](https://www.umb.edu/vdc)
