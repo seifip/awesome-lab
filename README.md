@@ -14,7 +14,7 @@ Tools and resources for wet lab scientists and research.
 8. [Funding](#-funding)
 
 ## 📒 Electronic Lab Notebooks (ELNs)
-* [Presearch](https://www.presearch.co/)
+* [Colabra](https://www.colabra.app/)
 * [Benchling](https://www.benchling.com/)
 * [LabLog](https://labnotebook.app/)
 * [SciNote](https://www.scinote.net/)
